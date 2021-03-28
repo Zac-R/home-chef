@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Home screen test
+    Home screen testing
   </div>
 </template>
 
