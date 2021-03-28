@@ -8,6 +8,9 @@
             <router-link class="nav-item me-2" :to="{name: 'Home'}">Home</router-link>
             <router-link class="nav-item" :to="{name: 'Home'}">About</router-link>
         </nav>
+        <div>
+            <p class="nav-item">sign in</p>
+        </div>
       </div>
   </header>
 </template>
