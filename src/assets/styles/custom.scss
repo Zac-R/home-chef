@@ -1,0 +1,14 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700&display=swap');
+
+$deep-sapphire: #0742A6;
+
+
+html,
+body{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+header{
+    background-color: $deep-sapphire;
+}
